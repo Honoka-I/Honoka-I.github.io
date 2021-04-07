@@ -2,12 +2,8 @@
 <!-- main-visual -->
 <div class="main-visual">
   <div class="main-visual-inner">
-    <p class="main-visual-title">{ name }}</p>
+    <p class="main-visual-title">{{ name }}</p>
     <p class="main-visual-subtitle">PORTFOLIO</p>
-    <p class="main-visual-text">
-      ユーザーとお客様が心から満足できる<br class="sp-only">サイトをお作りいたします。<br>
-      デザインとコーディングは<br class="sp-only">おまかせください。<br>
-    </p>
   </div>
 </div>
 <!-- /main-visual -->
@@ -33,14 +29,12 @@ export default {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 85vh;
+  height: 35vh;
   text-align: center;
 }
-
 .main-visual-inner {
   padding: 0 40px;
 }
-
 .main-visual-title {
   font-size: 60px;
   font-weight: bold;

@@ -10,7 +10,6 @@
         <li class="header-nav-item"><a href="#works">WORKS</a></li>
         <li class="header-nav-item"><a href="#skill">SKILL</a></li>
         <li class="header-nav-item"><a href="#about">ABOUT</a></li>
-        <li class="header-nav-item"><a href="#contact">CONTACT</a></li>
       </ul>
     </nav>
   </div>
@@ -23,7 +22,7 @@ export default {
   name: 'Header',
   data () {
     return {
-      name: 'PORTFOLIO'
+      name: 'MY PORTFOLIO'
     }
   }
 }

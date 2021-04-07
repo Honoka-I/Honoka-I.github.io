@@ -1,18 +1,31 @@
 <template>
   <div id="wrapper">
     <Header/>
+    <MainVisual/>
+    <Works/>
+    <Skill/>
+    <About/>
+    <Footer/>
   </div>
 </template>
 
 <script>
 import Header from './components/Header'
-import MV from './components/MainVisual'
+import MainVisual from './components/MainVisual'
+import Works from './components/Works'
+import Skill from './components/Skill'
+import About from './components/About'
+import Footer from './components/Footer'
 
 export default {
   name: 'Wrapper',
   components: {
     Header,
-    MV
+    MainVisual,
+    Works,
+    Skill,
+    About,
+    Footer
   }
 }
 </script>
@@ -67,5 +80,20 @@ li {
   max-width: 1340px;
   margin: 0 auto;
   padding: 0 40px;
+}
+/*--------------------------------
+見出し
+---------------------------------*/
+.title {
+font-size: 34px;
+font-weight: bold;
+line-height: 1;
+margin-bottom: 40px;
+text-align: center;
+letter-spacing: .05em;
+color: #333;
+}
+.lead {
+margin-bottom: 30px;
 }
 </style>
