@@ -49,4 +49,22 @@ export default {
   margin-bottom: 40px;
   letter-spacing: .08em;
 }
+/*media Queries 767
+---------------------------------------*/
+@media screen and (max-width: 767px) {
+  /*  メインビジュアル */
+  .main-visual {
+    height: 75vh;
+  }
+  .main-visual-inner {
+    padding: 0 20px;
+  }
+  .main-visual-title {
+    font-size: 30px;
+  }
+  .main-visual-subtitle {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+}
 </style>

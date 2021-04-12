@@ -85,15 +85,45 @@ li {
 見出し
 ---------------------------------*/
 .title {
-font-size: 34px;
-font-weight: bold;
-line-height: 1;
-margin-bottom: 40px;
-text-align: center;
-letter-spacing: .05em;
-color: #333;
+  font-size: 34px;
+  font-weight: bold;
+  line-height: 1;
+  margin-bottom: 40px;
+  text-align: center;
+  letter-spacing: .05em;
+  color: #333;
 }
 .lead {
-margin-bottom: 30px;
+  margin-bottom: 30px;
+}
+/*media Queries 767
+--------------------------------------*/
+@media screen and (max-width: 767px) {
+  body {
+    margin: 0;
+    font-size: 13px;
+    line-height: 1.7;
+  }
+  .pc-only {
+    display: none;
+  }
+  .sp-only {
+    display: block;
+  }
+  /* 見出し */
+  .title {
+    font-size: 26px;
+    margin-bottom: 20px;
+  }
+  /* レイアウト */
+  .wrapper {
+    padding-top: 57px;
+  }
+  .section {
+    padding: 60px 0;
+  }
+  .inner {
+    padding: 0 20px;
+  }
 }
 </style>

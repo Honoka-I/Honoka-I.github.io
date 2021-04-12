@@ -31,4 +31,12 @@ font-size: 10px;
 text-align: center;
 color: #797979;
 }
+/*media Queries 767
+--------------------------------------*/
+@media screen and (max-width: 767px) {
+  /* Footer */
+  .footer {
+    padding: 20px;
+  }
+}
 </style>

@@ -69,7 +69,6 @@ Skill
   justify-content: space-between;
   margin-bottom: -50px;
 }
-
 .skill-item {
   display: flex;
   align-items: flex-start;
@@ -77,18 +76,31 @@ Skill
   width: 48%;
   margin-bottom: 50px;
 }
-
 .skill-img {
   width: 60px;
   height: auto;
   margin-right: 20px;
 }
-
 .skill-body {
   flex: 1;
 }
-
 .skill-name {
   margin-bottom: 3px;
+}
+/*media Queries 767
+--------------------------------------*/
+@media screen and (max-width: 767px) {
+  /* Skill */
+  .skill-list {
+    display: block;
+    margin-bottom: 0;
+  }
+  .skill-item {
+    width: 100%;
+    margin-bottom: 35px;
+  }
+  .skill-item:last-child {
+    margin-bottom: 0;
+  }
 }
 </style>

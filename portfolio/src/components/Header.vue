@@ -41,14 +41,12 @@ export default {
   background-color: #fff;
   box-shadow: 0 5px 10px -6px rgba(0,0,0,.1);
 }
-
 .header .inner {
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 20px 40px;
 }
-
 .header-logo {
   font-size: 20px;
   font-weight: bold;
@@ -56,20 +54,16 @@ export default {
   margin-right: 20px;
   letter-spacing: .05em;
 }
-
 .header-logo a {
   color: #333;
 }
-
 .header-nav-list {
   display: flex;
   justify-content: space-between;
 }
-
 .header-nav-item:not(:last-child){
   margin-right: 20px;
 }
-
 .header-nav-item a {
   position: relative;
   font-size: 13px;
@@ -92,8 +86,32 @@ export default {
   transform: translateX(-50%);
   background-color: #333;
 }
-
 .header-nav-item a:hover::after {
   width: 100%;
+}
+/*media Queries 767
+---------------------------------------*/
+@media screen and (max-width: 767px) {
+  /* ヘッダー */
+  .header .inner {
+    padding: 15px;
+  }
+
+  .header-logo {
+    font-size: 15px;
+    margin-right: 15px;
+  }
+
+  .header-nav-item:not(:last-child) {
+    margin-right: 10px;
+  }
+
+  .header-nav-item a {
+    font-size: 10px;
+  }
+
+  .header-nav-item a:after {
+    display: none;
+  }
 }
 </style>

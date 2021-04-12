@@ -46,4 +46,20 @@ About
 .profile-body p:not(:last-child) {
   margin-bottom: 30px;
 }
+/*media Queries 767
+--------------------------------------*/
+@media screen and (max-width: 767px) {
+  /* About */
+  .profile {
+    display: block;
+  }
+  .profile-img {
+    width: 150px;
+    margin: 0 auto;
+    margin-bottom: 25px;
+  }
+  .profile-body p:not(:last-child) {
+    margin-bottom: 20px;
+  }
+}
 </style>

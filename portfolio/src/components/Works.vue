@@ -73,4 +73,20 @@ Works
 .works-info {
   font-size: 10px;
 }
+/*media Queries 767
+--------------------------------------*/
+@media screen and (max-width: 767px) {
+  /* Works */
+  .works-name {
+    font-size: 10px;
+  }
+  .works-list {
+    justify-content: space-between;
+  }
+  .works-item {
+    flex: 0 0 48%;
+    margin-right: 0;
+    margin-bottom: 30px;
+  }
+}
 </style>
