@@ -5,7 +5,7 @@
     <h2 class="title">SKILL</h2>
     <div class="skill-list">
       <div class="skill-item">
-        <p class="skill-img"><img src="img/icon_skill.png" alt=""></p>
+        <p class="skill-img"><img src="@/assets/logo.png" alt=""></p>
         <div class="skill-body">
           <h3 class="skill-name">HTML5/CSS3</h3>
           <p class="skill-text">
@@ -13,7 +13,7 @@
         </div>
       </div>
       <div class="skill-item">
-        <p class="skill-img"><img src="img/icon_skill.png" alt=""></p>
+        <p class="skill-img"><img src="@/assets/logo.png" alt=""></p>
         <div class="skill-body">
           <h3 class="skill-name">WordPress</h3>
           <p class="skill-text">
@@ -21,7 +21,7 @@
         </div>
       </div>
       <div class="skill-item">
-        <p class="skill-img"><img src="img/icon_skill.png" alt=""></p>
+        <p class="skill-img"><img src="@/assets/logo.png" alt=""></p>
         <div class="skill-body">
           <h3 class="skill-name">JavaScript</h3>
           <p class="skill-text">
@@ -29,7 +29,7 @@
         </div>
       </div>
       <div class="skill-item">
-        <p class="skill-img"><img src="img/icon_skill.png" alt=""></p>
+        <p class="skill-img"><img src="@/assets/logo.png" alt=""></p>
         <div class="skill-body">
           <h3 class="skill-name">Photoshop</h3>
           <p class="skill-text">
@@ -37,7 +37,7 @@
         </div>
       </div>
       <div class="skill-item">
-        <p class="skill-img"><img src="img/icon_skill.png" alt=""></p>
+        <p class="skill-img"><img src="@/assets/logo.png" alt=""></p>
         <div class="skill-body">
           <h3 class="skill-name">Illustrator</h3>
           <p class="skill-text">
@@ -45,7 +45,7 @@
         </div>
       </div>
       <div class="skill-item">
-        <p class="skill-img"><img src="img/icon_skill.png" alt=""></p>
+        <p class="skill-img"><img src="@/assets/logo.png" alt=""></p>
         <div class="skill-body">
           <h3 class="skill-name">XD</h3>
           <p class="skill-text">
