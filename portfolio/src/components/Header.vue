@@ -38,7 +38,7 @@ export default {
   top: 0;
   z-index: 1;
   width: 100%;
-  background-color: #eaffea;
+  background-color: #d6e9ca;
   box-shadow: 0 5px 10px -6px rgba(0,0,0,.1);
 }
 .header .inner {
