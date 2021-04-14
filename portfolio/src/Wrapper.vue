@@ -32,6 +32,8 @@ export default {
 
 <style>
 body {
+  margin: 0;
+  padding: 0;
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.8;
@@ -41,7 +43,7 @@ body {
 a {
   transition: opacity .3s;
   text-decoration: none;
-  color: #1ca9e3;
+  color: #ccc;
 }
 img {
   max-width: 100%;
@@ -66,7 +68,7 @@ li {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: #3a5b52;
   margin-top: 60px;
   padding-top: 73px;
 }
@@ -74,7 +76,7 @@ li {
   padding: 90px 0;
 }
 .section:nth-of-type(odd) {
-  background-color: #f7f7f7;
+  background-color: #fafafa;
 }
 .inner {
   max-width: 1340px;
@@ -91,7 +93,7 @@ li {
   margin-bottom: 40px;
   text-align: center;
   letter-spacing: .05em;
-  color: #333;
+  color: #3a5b52;
 }
 .lead {
   margin-bottom: 30px;

@@ -54,7 +54,7 @@ Works
   width: 31.74603%;
   margin-right: 1.58730%;
   margin-bottom: 40px;
-  color: #333;
+  color: #3a5b52;
 }
 .works-item:hover {
   opacity: .9;

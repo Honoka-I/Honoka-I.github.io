@@ -24,12 +24,12 @@ footer
 ---------------------------------*/
 .footer {
 padding: 30px;
-background-color: #333;
+background-color: #3a5b52;
 }
 .copyright {
 font-size: 10px;
 text-align: center;
-color: #797979;
+color: #fff;
 }
 /*media Queries 767
 --------------------------------------*/

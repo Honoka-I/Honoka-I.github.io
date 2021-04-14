@@ -38,7 +38,7 @@ export default {
   top: 0;
   z-index: 1;
   width: 100%;
-  background-color: #fff;
+  background-color: #eaffea;
   box-shadow: 0 5px 10px -6px rgba(0,0,0,.1);
 }
 .header .inner {
@@ -55,7 +55,7 @@ export default {
   letter-spacing: .05em;
 }
 .header-logo a {
-  color: #333;
+  color: #3a5b52;
 }
 .header-nav-list {
   display: flex;
@@ -72,19 +72,19 @@ export default {
   padding: 5px 0;
   transition: .3s;
   letter-spacing: .05em;
-  color: #333;
+  color: #3a5b52;
 }
 .header-nav-item a::after {
   position: absolute;
   bottom: 0;
   left: 50%;
   width: 0;
-  height: 3px;
+  height: 2px;
   content: '';
   transition: .3s;
   -webkit-transform: translateX(-50%);
   transform: translateX(-50%);
-  background-color: #333;
+  background-color: #54917f;
 }
 .header-nav-item a:hover::after {
   width: 100%;
