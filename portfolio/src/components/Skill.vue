@@ -237,6 +237,7 @@ Skill
   }
   .skill-item {
     width: 100%;
+    height: 130px;
     margin-bottom: 35px;
   }
   .skill-item:last-child {
