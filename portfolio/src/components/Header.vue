@@ -38,6 +38,7 @@ export default {
   top: 0;
   z-index: 1;
   width: 100%;
+  height: 10vh;
   background-color: #d6e9ca;
   box-shadow: 0 5px 10px -6px rgba(0,0,0,.1);
 }
@@ -66,7 +67,7 @@ export default {
 }
 .header-nav-item a {
   position: relative;
-  font-size: 13px;
+  font-size: 14px;
   font-weight: bold;
   display: inline-block;
   padding: 5px 0;

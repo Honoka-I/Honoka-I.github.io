@@ -5,49 +5,181 @@
     <h2 class="title">SKILL</h2>
     <div class="skill-list">
       <div class="skill-item">
-        <p class="skill-img"><img src="@/assets/logo.png" alt=""></p>
+        <p class="skill-img"><img src="@/assets/ico_html.svg" alt="icon_html"></p>
         <div class="skill-body">
-          <h3 class="skill-name">HTML5/CSS3</h3>
+          <h3 class="skill-name">HTML</h3>
+          <span class="skill-star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+          </span>
           <p class="skill-text">
             テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります。</p>
         </div>
       </div>
       <div class="skill-item">
-        <p class="skill-img"><img src="@/assets/logo.png" alt=""></p>
+        <p class="skill-img"><img src="@/assets/ico_css.svg" alt=""></p>
         <div class="skill-body">
-          <h3 class="skill-name">WordPress</h3>
+          <h3 class="skill-name">CSS</h3>
+          <span class="skill-star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+          </span>
           <p class="skill-text">
             テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります。</p>
         </div>
       </div>
       <div class="skill-item">
-        <p class="skill-img"><img src="@/assets/logo.png" alt=""></p>
+        <p class="skill-img"><img src="@/assets/ico_js.svg" alt=""></p>
         <div class="skill-body">
           <h3 class="skill-name">JavaScript</h3>
+          <span class="skill-star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star_half.svg" alt="star">
+            <img src="@/assets/star_empty.svg" alt="star">
+          </span>
           <p class="skill-text">
             テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります。</p>
         </div>
       </div>
       <div class="skill-item">
-        <p class="skill-img"><img src="@/assets/logo.png" alt=""></p>
+        <p class="skill-img"><img src="@/assets/ico_php.svg" alt=""></p>
+        <div class="skill-body">
+          <h3 class="skill-name">PHP</h3>
+          <span class="skill-star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star_half.svg" alt="star">
+            <img src="@/assets/star_empty.svg" alt="star">
+            <img src="@/assets/star_empty.svg" alt="star">
+            <img src="@/assets/star_empty.svg" alt="star">
+          </span>
+          <p class="skill-text">
+            テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります。</p>
+        </div>
+      </div>
+      <div class="skill-item">
+        <p class="skill-img"><img src="@/assets/ico_vuejs.svg" alt=""></p>
+        <div class="skill-body">
+          <h3 class="skill-name">Vue.js</h3>
+          <span class="skill-star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star_half.svg" alt="star">
+            <img src="@/assets/star_empty.svg" alt="star">
+            <img src="@/assets/star_empty.svg" alt="star">
+          </span>
+          <p class="skill-text">
+            テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります。</p>
+        </div>
+      </div>
+      <div class="skill-item">
+        <p class="skill-img"><img src="@/assets/ico_jquery.svg" alt=""></p>
+        <div class="skill-body">
+          <h3 class="skill-name">jQuery</h3>
+          <span class="skill-star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star_empty.svg" alt="star">
+          </span>
+          <p class="skill-text">
+            テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります。</p>
+        </div>
+      </div>
+      <div class="skill-item">
+        <p class="skill-img"><img src="@/assets/ico_photoshop.svg" alt=""></p>
         <div class="skill-body">
           <h3 class="skill-name">Photoshop</h3>
+          <span class="skill-star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star_half.svg" alt="star">
+            <img src="@/assets/star_empty.svg" alt="star">
+          </span>
           <p class="skill-text">
             テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります。</p>
         </div>
       </div>
       <div class="skill-item">
-        <p class="skill-img"><img src="@/assets/logo.png" alt=""></p>
+        <p class="skill-img"><img src="@/assets/ico_illustrator.svg" alt=""></p>
         <div class="skill-body">
           <h3 class="skill-name">Illustrator</h3>
+          <span class="skill-star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star_empty.svg" alt="star">
+          </span>
           <p class="skill-text">
             テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります。</p>
         </div>
       </div>
       <div class="skill-item">
-        <p class="skill-img"><img src="@/assets/logo.png" alt=""></p>
+        <p class="skill-img"><img src="@/assets/ico_xd.svg" alt=""></p>
         <div class="skill-body">
           <h3 class="skill-name">XD</h3>
+          <span class="skill-star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star_empty.svg" alt="star">
+          </span>
+          <p class="skill-text">
+            テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります。</p>
+        </div>
+      </div>
+      <div class="skill-item">
+        <p class="skill-img"><img src="@/assets/ico_vscode.svg" alt=""></p>
+        <div class="skill-body">
+          <h3 class="skill-name">Visual Studio Code</h3>
+          <span class="skill-star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star_half.svg" alt="star">
+          </span>
+          <p class="skill-text">
+            テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります。</p>
+        </div>
+      </div>
+      <div class="skill-item">
+        <p class="skill-img"><img src="@/assets/ico_slack.svg" alt=""></p>
+        <div class="skill-body">
+          <h3 class="skill-name">Slack</h3>
+          <span class="skill-star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+          </span>
+          <p class="skill-text">
+            テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります。</p>
+        </div>
+      </div>
+      <div class="skill-item">
+        <p class="skill-img"><img src="@/assets/ico_github.png" alt=""></p>
+        <div class="skill-body">
+          <h3 class="skill-name">GitHub</h3>
+          <span class="skill-star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star_half.svg" alt="star">
+          </span>
           <p class="skill-text">
             テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります。</p>
         </div>
@@ -71,7 +203,7 @@ Skill
 }
 .skill-item {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   justify-content: space-between;
   width: 48%;
   margin-bottom: 50px;
@@ -84,8 +216,16 @@ Skill
 .skill-body {
   flex: 1;
 }
+.skill-star {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+.skill-star img {
+  width: 30px;
+}
 .skill-name {
-  margin-bottom: 3px;
+  margin: 0 0 3px 0;
 }
 /*media Queries 767
 --------------------------------------*/

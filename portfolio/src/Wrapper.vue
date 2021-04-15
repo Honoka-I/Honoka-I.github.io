@@ -2,9 +2,9 @@
   <div id="wrapper">
     <Header/>
     <MainVisual/>
-    <Works/>
-    <Skill/>
     <About/>
+    <Skill/>
+    <Works/>
     <Footer/>
   </div>
 </template>
@@ -12,9 +12,9 @@
 <script>
 import Header from './components/Header'
 import MainVisual from './components/MainVisual'
-import Works from './components/Works'
-import Skill from './components/Skill'
 import About from './components/About'
+import Skill from './components/Skill'
+import Works from './components/Works'
 import Footer from './components/Footer'
 
 export default {
@@ -22,9 +22,9 @@ export default {
   components: {
     Header,
     MainVisual,
-    Works,
-    Skill,
     About,
+    Skill,
+    Works,
     Footer
   }
 }
@@ -55,6 +55,9 @@ ul,
 li {
   list-style: none;
 }
+p {
+  margin: 0;
+}
 .pc-only {
   display: block;
 }
@@ -69,14 +72,13 @@ li {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #3a5b52;
-  margin-top: 60px;
-  padding-top: 73px;
+  margin-top: 10vh;
 }
 .section {
   padding: 90px 0;
 }
 .section:nth-of-type(odd) {
-  background-color: #fafafa;
+  background-color: #e6eae6;
 }
 .inner {
   max-width: 1340px;
@@ -90,7 +92,7 @@ li {
   font-size: 34px;
   font-weight: bold;
   line-height: 1;
-  margin-bottom: 40px;
+  margin: 0 0 40px 0;
   text-align: center;
   letter-spacing: .05em;
   color: #3a5b52;

@@ -5,15 +5,16 @@
     <h2 class="title">ABOUT</h2>
     <div class="profile">
       <p class="profile-img">
-        <img src="@/assets/logo.png" alt="">
+        <img src="@/assets/about.jpg" alt="">
       </p>
       <div class="profile-body">
         <p>
-          テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります。
+          大学在学中から1年半のインターンを経て卒業後、新卒でWebサービス開発を担う会社に入社。コーダーとして開発経験を積んだ後、2018年から現所属会社にてJavascriptを使用する開発を経験。
         </p>
         <p>
-          テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります。
+          直近では、コスメ口コミサイトの開発・運用に携わっており、企画とデザイナーとのミーティングから参加し、チームでの連携を意識しながら業務を行っている。
         </p>
+        <a href="https://github.com/Honoka-I" target="_blank" rel="noopener"><img src="@/assets/ico_github.png" alt="github-icon">Github</a>
       </div>
     </div>
   </div>
@@ -42,6 +43,17 @@ About
 }
 .profile-body {
   flex: 1;
+  text-align: left;
+}
+.profile-body a {
+  color: #3a5b52;
+}
+.profile-body a:hover {
+  opacity: .7 ;
+}
+.profile-body img {
+  width: 30px;
+  margin-right: 10px;
 }
 .profile-body p:not(:last-child) {
   margin-bottom: 30px;
