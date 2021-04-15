@@ -73,5 +73,10 @@ About
   .profile-body p:not(:last-child) {
     margin-bottom: 20px;
   }
+  .profile-body a {
+    display: block;
+    width: 100px;
+    margin: 0 auto;
+  }
 }
 </style>

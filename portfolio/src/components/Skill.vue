@@ -240,6 +240,12 @@ Skill
     height: 130px;
     margin-bottom: 35px;
   }
+  .skill-body {
+    height: 130px;
+  }
+  .skill-star {
+    height: 24px;
+  }
   .skill-item:last-child {
     margin-bottom: 0;
   }
