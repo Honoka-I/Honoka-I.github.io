@@ -41,10 +41,12 @@ export default {
 ---------------------------------*/
 .main-visual {
   display: flex;
+  width: 100%;
   align-items: center;
   justify-content: center;
   height: 35vh;
   text-align: center;
+  overflow-x: hidden;
 }
 .main-visual-inner {
   width: 100%;
