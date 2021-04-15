@@ -77,8 +77,7 @@ p {
   overflow-x: hidden;
 }
 .section {
-  margin-top: -10vh;
-  padding: 20vh 0 90px;
+  padding: 10vh 0;
 }
 .section:nth-of-type(odd) {
   background-color: #e6eae6;
