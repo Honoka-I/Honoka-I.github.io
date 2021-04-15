@@ -39,6 +39,7 @@ body {
   line-height: 1.8;
   letter-spacing: .8px;
   color: #333;
+  overflow-x: hidden;
 }
 a {
   transition: opacity .3s;
