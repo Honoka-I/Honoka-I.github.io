@@ -127,7 +127,7 @@ p {
     padding-top: 57px;
   }
   .section {
-    padding: 60px 0;
+    padding: 20vh 0 60px;
   }
   .inner {
     padding: 0 20px;
