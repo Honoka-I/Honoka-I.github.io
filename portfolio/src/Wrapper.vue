@@ -74,6 +74,7 @@ p {
   text-align: center;
   color: #3a5b52;
   margin-top: 10vh;
+  overflow-x: hidden;
 }
 .section {
   padding: 90px 0;
