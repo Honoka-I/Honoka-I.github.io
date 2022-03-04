@@ -1,4 +1,4 @@
-AuthUserFile portfolio/dist/.htpasswd
+AuthUserFile https://honoka-i.github.io/portfolio/dist/.htpasswd
 AuthGroupFile /dev/null
 AuthName "Input ID and Password."
 AuthType Basic
