@@ -5,6 +5,48 @@
     <h2 class="title">SKILL</h2>
     <div class="skill-list">
       <div class="skill-item">
+        <p class="skill-img"><img src="@/assets/ico_photoshop.svg" alt=""></p>
+        <div class="skill-body">
+          <h3 class="skill-name">Photoshop</h3>
+          <span class="skill-star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star_half.svg" alt="star">
+            <img src="@/assets/star_empty.svg" alt="star">
+          </span>
+          <p class="skill-text">基本的な操作が可能。簡単なレタッチやLPデザインの作成などが可能。</p>
+        </div>
+      </div>
+      <div class="skill-item">
+        <p class="skill-img"><img src="@/assets/ico_illustrator.svg" alt=""></p>
+        <div class="skill-body">
+          <h3 class="skill-name">Illustrator</h3>
+          <span class="skill-star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star_empty.svg" alt="star">
+          </span>
+          <p class="skill-text">基本的な操作が可能。LINEスタンプの作成などが可能。</p>
+        </div>
+      </div>
+      <div class="skill-item">
+        <p class="skill-img"><img src="@/assets/ico_xd.svg" alt=""></p>
+        <div class="skill-body">
+          <h3 class="skill-name">XD</h3>
+          <span class="skill-star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star_empty.svg" alt="star">
+          </span>
+          <p class="skill-text">基本的な操作が可能。既存サイトの模写でプロトタイプの作成などを勉強中。</p>
+        </div>
+      </div>
+      <div class="skill-item">
         <p class="skill-img"><img src="@/assets/ico_html.svg" alt="icon_html"></p>
         <div class="skill-body">
           <h3 class="skill-name">HTML</h3>
@@ -86,48 +128,6 @@
             <img src="@/assets/star_empty.svg" alt="star">
           </span>
           <p class="skill-text">基本的なプログラミングが可能。Ajaxなどの実装も可能。</p>
-        </div>
-      </div>
-      <div class="skill-item">
-        <p class="skill-img"><img src="@/assets/ico_photoshop.svg" alt=""></p>
-        <div class="skill-body">
-          <h3 class="skill-name">Photoshop</h3>
-          <span class="skill-star">
-            <img src="@/assets/star.svg" alt="star">
-            <img src="@/assets/star.svg" alt="star">
-            <img src="@/assets/star.svg" alt="star">
-            <img src="@/assets/star_half.svg" alt="star">
-            <img src="@/assets/star_empty.svg" alt="star">
-          </span>
-          <p class="skill-text">基本的な操作が可能。</p>
-        </div>
-      </div>
-      <div class="skill-item">
-        <p class="skill-img"><img src="@/assets/ico_illustrator.svg" alt=""></p>
-        <div class="skill-body">
-          <h3 class="skill-name">Illustrator</h3>
-          <span class="skill-star">
-            <img src="@/assets/star.svg" alt="star">
-            <img src="@/assets/star.svg" alt="star">
-            <img src="@/assets/star.svg" alt="star">
-            <img src="@/assets/star.svg" alt="star">
-            <img src="@/assets/star_empty.svg" alt="star">
-          </span>
-          <p class="skill-text">基本的な操作が可能。</p>
-        </div>
-      </div>
-      <div class="skill-item">
-        <p class="skill-img"><img src="@/assets/ico_xd.svg" alt=""></p>
-        <div class="skill-body">
-          <h3 class="skill-name">XD</h3>
-          <span class="skill-star">
-            <img src="@/assets/star.svg" alt="star">
-            <img src="@/assets/star.svg" alt="star">
-            <img src="@/assets/star.svg" alt="star">
-            <img src="@/assets/star.svg" alt="star">
-            <img src="@/assets/star_empty.svg" alt="star">
-          </span>
-          <p class="skill-text">基本的な操作が可能。</p>
         </div>
       </div>
       <div class="skill-item">
