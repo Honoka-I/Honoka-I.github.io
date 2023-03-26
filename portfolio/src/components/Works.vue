@@ -4,6 +4,18 @@
   <div class="inner">
     <h2 class="title">WORKS</h2>
     <div class="works-list">
+      <a class="works-item" href="https://cozuchi.com/" target="_blank" rel="noopener">
+        <p class="works-img"><img  src="@/assets/no_image.png" alt="" /></p>
+        <p class="works-name">登録フロー/マイページUIデザイン</p>
+        <p class="works-charge">Design</p>
+        <p class="works-info">登録フローとマイページのUI改善を行うために現状の調査、<br>デザインの改善を行った。デザインは完成しており、これから実装予定。</p>
+      </a>
+      <a class="works-item" href="https://cozuchi.com/system/funds" target="_blank" rel="noopener">
+        <p class="works-img"><img  src="@/assets/works_17.png" alt="" /></p>
+        <p class="works-name">サムネイルデザイン</p>
+        <p class="works-charge">Design</p>
+        <p class="works-info">トーンに沿ったデザインを作成</p>
+      </a>
       <a class="works-item" href="https://www.cosme.net/html/spc/about-micael/" target="_blank" rel="noopener">
         <p class="works-img"><img  src="@/assets/works_1.png" alt="" /></p>
         <p class="works-name">キャラクター紹介ページ作成</p>
