@@ -40,12 +40,12 @@
         <p class="works-charge">Coding(Responsive)</p>
         <p class="works-info">より使いやすいサイトにするため、トップページ全体の改修。<br>頂いたデザインをもとにコーディング。<br>ログイン時にお知らせがわかりやすいように<br>cssアニメーションの実装を行った。</p>
       </a>
-      <a class="works-item" href="https://gourmet.epark.jp/" target="_blank" rel="noopener">
+      <div class="works-item2">
         <p class="works-img"><img src="@/assets/works_5.png" alt="" /></p>
         <p class="works-name">トップページ,検索結果改修</p>
         <p class="works-charge">Coding(Responsive)</p>
         <p class="works-info">より使いやすいサイトにするため、サイト全体の改修。<br>頂いたデザインをもとにコーディング。<br>hoverなどの動きの部分のデザインについては<br>提案して実装を行った。</p>
-      </a>
+      </div>
       <a class="works-item" href="http://www.honkei.jp/" target="_blank" rel="noopener">
         <p class="works-img"><img src="@/assets/works_6.png" alt="" /></p>
         <p class="works-name">サイト改修</p>
