@@ -11,7 +11,7 @@ export default {
   name: 'Footer',
   data () {
     return {
-      name: 'HONOKA IWASE'
+      name: 'H.I'
     }
   }
 }
