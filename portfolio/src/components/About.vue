@@ -9,7 +9,7 @@
       </p>
       <div class="profile-body">
         <p>
-          大学在学中から1年半のインターンを経て卒業後、新卒でWebサービス開発を担う会社に入社。コーダーとして開発経験を積んだ後、2018年から所属した会社ではJavascriptを使用する開発を経験。現在はWebデザインやUIデザインについて勉強中…<br>ですが、やっぱりコード書くの楽しい。
+          大学在学中から1年半のインターンを経て卒業後、新卒でWebサービス開発を担う会社に入社。コーダーとして開発経験を積んだ後、2018年から所属した会社ではJavascriptを使用する開発を経験。現在はWebデザインやUIデザインについて勉強中。<br>
         </p>
         <a href="https://github.com/Honoka-I" target="_blank" rel="noopener"><img src="@/assets/ico_github.png" alt="github-icon">Github</a>
       </div>
