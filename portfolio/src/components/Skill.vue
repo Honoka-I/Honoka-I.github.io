@@ -131,6 +131,20 @@
         </div>
       </div>
       <div class="skill-item">
+        <p class="skill-img"><img src="@/assets/ico_movabletype.png" alt=""></p>
+        <div class="skill-body">
+          <h3 class="skill-name">Movable Type</h3>
+          <span class="skill-star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star.svg" alt="star">
+            <img src="@/assets/star_half.svg" alt="star">
+            <img src="@/assets/star_empty.svg" alt="star">
+            <img src="@/assets/star_empty.svg" alt="star">
+          </span>
+          <p class="skill-text">Movable Typeで作成されたサイトの運用開発を経験。</p>
+        </div>
+      </div>
+      <div class="skill-item">
         <p class="skill-img"><img src="@/assets/ico_vscode.svg" alt=""></p>
         <div class="skill-body">
           <h3 class="skill-name">Visual Studio Code</h3>

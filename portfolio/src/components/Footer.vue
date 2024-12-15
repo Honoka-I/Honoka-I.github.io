@@ -11,7 +11,7 @@ export default {
   name: 'Footer',
   data () {
     return {
-      name: 'I.H'
+      name: 'H.I'
     }
   }
 }
